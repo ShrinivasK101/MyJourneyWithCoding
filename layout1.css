@@ -1,0 +1,159 @@
+<style type="text/css">
+		
+		#heading {
+			position:fixed;
+			top:0%;
+			left:10%;
+			width:80%;
+			height:20%;
+			z-index:100;
+			}
+		#heading {
+		position:fixed;
+		top:0%;
+		left:10%;
+		width:80%;
+		height:20%;
+		z-index: 100;
+		}
+		.player1{position: fixed;
+			top: 22%;
+			left:0%;
+			height:58%;
+			width:20%;
+			color: #e68a00;
+			background-color: #F3F07D;
+			}
+		#symbol1{
+			position: fixed;
+			left: 1%;
+			top:23%;
+			width: 15%;
+			height: 18%;
+			}
+		#name1{position: fixed;
+			left: -2%;
+			top:45%;
+			width: 20%;
+			height: 20%;
+			font-size: 200%;
+			text-align: center;
+			}
+		#win1{position: fixed;
+			left: -2%;
+			top:58%;
+			width: 20%;
+			height: 20%;
+			font-size: 200%;
+			text-align: center;
+			}
+		.player2{position: fixed;
+			top: 22%;
+			left:80%;
+			height:58%;
+			width:20%;
+			color:blue;
+			background-color:#9AD9EA;
+			}
+		#symbol2{
+			position: fixed;
+			left: 83%;
+			top:23%;
+			width: 15%;
+			height: 22%;
+			}
+		#name2{position: fixed;
+			left: 80%;
+			top:45%;
+			width: 20%;
+			height: 20%;
+			font-size: 200%;
+			text-align: center;
+			}
+		#win2{position: fixed;
+			left: 80%;
+			top:58%;
+			width: 20%;
+			height: 20%;
+			font-size: 200%;
+			text-align: center;
+			}
+		#bar{position: fixed;
+			top: 80%;
+			left:0%;
+			border-top: 5px solid black;
+			width:100%;
+			}
+		#reset{position: fixed;
+			top: 85%;
+			left:7%;
+			width:20%;
+			height:10%;
+		}
+		#home{position: fixed;
+			top: 85%;
+			left:75%;
+			width:20%;
+			height:10%;
+			z-index:250;
+		}
+		#ties{position: fixed;
+			left: 40%;
+			top:86%;
+			width: 40%;
+			height: 20%;
+			font-size: 300%;
+		}
+		#tie{position: fixed;
+			left: 50%;
+			top:86%;
+			width: 40%;
+			height: 20%;
+			font-size: 100%;
+		}
+		.main{position: fixed;
+			top: 25%;
+			left:35%;
+			height:50%;
+			width:40%;
+			z-index:200;
+			background-color: white;
+			}
+		.main1{position: fixed;
+			top: 21%;
+			left:30%;
+			height:55%;
+			width:40%;
+			}
+		.block{
+			width:25%;
+			height:32%;
+			padding: 0%;
+			margin:0%;
+			}
+		.v1{ border-left: 5px solid black;
+				height: 98%;
+				position: absolute;
+				left: 25%;
+				top: 0%;
+			}
+		.v2{ border-left: 5px solid black;
+				height: 98%;
+				position: absolute;
+				left: 50.5%;
+				top: 0%;
+			}
+		.v3{ border-top: 5px solid black;
+				width:76%;
+				position: absolute;
+				left:0%;
+				top: 32.5%;
+			}
+		.v4{ border-top: 5px solid black;
+				width:76%;
+				position: absolute;
+				left:0.7%;
+				top: 64.5%;
+			}
+		
+		</style>
